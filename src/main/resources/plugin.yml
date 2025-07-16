@@ -1,0 +1,17 @@
+name: AzPvpTogle
+version: '1.0-SNAPSHOT'
+main: io.github.AzmiiD.azPvpTogle.AzPvpTogle
+api-version: '1.21'
+authors: [ Azmii_ ]
+description: Plugine Dika
+commands:
+  pvp:
+    description: Toggle your PvP mode ON/OFF
+    usage: /pvp <on|off>
+    permission: azpvptogle.use
+    permission-message: "&cYou don't have permission to use this command!"
+
+permissions:
+  azpvptogle.use:
+    description: Allows player to toggle PvP mode
+    default: true

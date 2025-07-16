@@ -1,0 +1,29 @@
+# AzPvpTogle Configuration File
+# Use & for color codes (e.g., &c for red, &a for green)
+
+# Messages
+prefix: "&7[&cPvP&7] "
+enabled: "&aYour PvP mode is now ENABLED!"
+disabled: "&cYour PvP mode is now DISABLED!"
+deny-attacker: "&cThat player has not enabled PvP!"
+deny-victim: "&cYou have not enabled PvP!"
+no-permission: "&cYou don't have permission to use this command!"
+
+# Status messages
+status-enabled: "&aYour PvP mode is currently ENABLED"
+status-disabled: "&cYour PvP mode is currently DISABLED"
+
+# Command usage messages
+usage: "&cUsage: /pvp <on|off>"
+already-enabled: "&cYour PvP mode is already enabled!"
+already-disabled: "&cYour PvP mode is already disabled!"
+
+# Error messages
+error-loading-data: "&cError loading player data!"
+error-saving-data: "&cError saving player data!"
+
+# Default PvP state for new players (true = enabled, false = disabled)
+default-pvp-state: false
+
+# Cooldown settings (in seconds)
+message-cooldown: 3
