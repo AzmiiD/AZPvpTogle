@@ -1,5 +1,7 @@
 # AzPvpToggle
 
+![Preview](https://i.imgur.com/P4YB5OU.png)
+
 AzPvpToggle is a lightweight Minecraft plugin that allows players to toggle their PvP mode on or off. Designed to provide control over player combat and improve server experience, this plugin ensures fair play while maintaining player freedom.
 
 ## ✅ Features
